@@ -1,3 +1,6 @@
 [submodule "MV-Final-Project1"]
 	path = MV-Final-Project1
 	url = https://github.com/jxkobrxyes/MV-Final-Project1
+[submodule "Projects/sheltor-inventory"]
+	path = Projects/sheltor-inventory
+	url = https://github.com/jxkobrxyes/sheltor-inventory.git
