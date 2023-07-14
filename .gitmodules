@@ -4,3 +4,6 @@
 [submodule "Projects/sheltor-inventory"]
 	path = Projects/sheltor-inventory
 	url = https://github.com/jxkobrxyes/sheltor-inventory.git
+[submodule "Projects/Employee-Management-System"]
+	path = Projects/Employee-Management-System
+	url = https://github.com/jxkobrxyes/Employee-Management-system.git
