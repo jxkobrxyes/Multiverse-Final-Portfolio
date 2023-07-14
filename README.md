@@ -9,5 +9,8 @@ This repository is a collection of some of my key learnings during my 2022 - 202
 ## Durable Skills
 
 ## [Projects](https://github.com/jxkobrxyes/Multiverse-Final-Portfolio/tree/main/Projects)
+These are some of the projects I've worked on throughout my time here at Multiverse! There are both individual as well as collaborative projects.
+
+More Detail is provided in each projects ReadMe file for more information👀
 
 ## Acknowledgement
