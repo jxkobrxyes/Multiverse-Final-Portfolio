@@ -10,6 +10,6 @@ This repository is a collection of some of my key learnings during my 2022 - 202
 
 ## Durable Skills
 
-## Projects
+## (Projects)[https://github.com/jxkobrxyes/Multiverse-Final-Portfolio/tree/main/Projects]
 
 ## Acknowledgement
