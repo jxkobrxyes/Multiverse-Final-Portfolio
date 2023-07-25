@@ -10,3 +10,6 @@
 [submodule "Projects/Banking-Application"]
 	path = Projects/Banking-Application
 	url = https://github.com/jxkobrxyes/BankingApplication.git
+[submodule "Projects/EMS-Project"]
+	path = Projects/EMS-Project
+	url = https://github.com/jxkobrxyes/Employee-Management-system.git
