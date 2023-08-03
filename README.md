@@ -7,11 +7,18 @@ During my time with Multiverse and American Express I have adapted the skills ne
 This repository is a collection of some of my key learnings during my 2022 - 2023 apprenticeship at American Express.
 
 ## Durable Skills
-This is an overview of everyhting I have learned with Multiverse and American Express
+This is an overview of everyhting I have learned with American Express and Multiverse
 - ### Infastructure as Code (IaC)
   Proficiant in tools like terraform to automate the deployment and management of infastructure, including Vault clusters and configurations.
 - ### Security practices
   Understanding of security best practices and cryptographic concepts to endure the secure storage and management of sensitive data within Vault
+- ### Automation
+  Exceptional scripting skills (e.g., Bash, python) to automate repetitive tasks and streamline Vault operations
+- ### Troubleshooting and Monitoring
+  Ability to diagnose issues, analyze logs, and implement monitoring solutions to maintain Vault's availiability and performance
+- ### Continuous integration and deployment (CI/)CD
+  Experience with CI/CD pipelines to automate the deployment of Vault changes and updates
+
 
 ## [Projects](https://github.com/jxkobrxyes/Multiverse-Final-Portfolio/tree/main/Projects)
 These are some of the projects I've worked on throughout my time here at Multiverse! There are both individual as well as collaborative projects.
